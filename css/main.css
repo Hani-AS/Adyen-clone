@@ -7,16 +7,10 @@
     color: #00112c !important;
 }
 
-/* .dropdown:hover > .dropdown-menu {
-    display: block;
-} */
-
 .nav-btn,
 .section-01-btn {
     background-color: #0abf53 !important;
     border-color: #0abf53;
-    /* margin-top: 15px !important;
-    margin-bottom: 15px !important; */
     font-weight: 600 !important;
 }
 
@@ -83,7 +77,7 @@
     background-image: url(../img/hamburger.svg) !important;
 }
 
-/* section 01 */
+/*//////////// section 01 ///////////////*/
 
 .heading-h0 {
     font-size: 40px;
@@ -114,7 +108,7 @@
     }
 }
 
-/* section-02 */
+/*/////////// section-02 ////////////*/
 
 .img-size {
     max-width: 40px;
@@ -175,13 +169,13 @@
 }
 
 
-/* spacing container */
+/*/////////// spacing container /////////////*/
 
 .img-size-spacing-container {
     max-width: 100%;
 }
 
-/* section-03 */
+/*////////// section-03 ////////////////*/
 
 @media (min-width: 480px) {
 .heading-h1 {
@@ -201,7 +195,7 @@
     }
 }
 
-/* section-04 */
+/*//////////// section-04 ////////////*/
 
 .section-04-img {
     max-width: 100%;
@@ -222,7 +216,7 @@
 
 }
 
-/* section-05-part-01*/
+/*///////////// section-05-part-01 /////////////*/
 
 .heading-section-05 {
     color: #fff;
@@ -245,7 +239,7 @@
 }
 }
 
-/* section-05-part-02 */
+/*/////////////// section-05-part-02 ///////////////*/
 .rich-text {
     color: #fff;
 }
@@ -278,7 +272,7 @@
     }
 }
 
-/* section-06 */
+/*/////////////// section-06 /////////////////*/
 .s6-bgc {
     background-color: #0abf53;
     padding: 48px 24px;
@@ -314,7 +308,7 @@
     border-color: #1b2b44 !important;
 }
 
-/* Footer */
+/*////////////// Footer ////////////////*/
 
 .footer {
     background-color: #00112c;
@@ -347,7 +341,7 @@
 }
 
 
-/* Footer-form */
+/*///////////////// Footer-form ///////////////*/
 .form-title {
     font-size: 16px;
     margin-bottom: 12px;
